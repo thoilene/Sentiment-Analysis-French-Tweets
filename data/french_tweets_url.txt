@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/hbaflast/french-twitter-sentiment-analysis?select=french_tweets.csv
