@@ -11,7 +11,7 @@ The dataset consists of text from tweets in french and integer where 1 represent
 
 The RNN acitecture choosen for the model is the many-to-one architecture
 
-![Many-to-One](/data/tweets_single_1.JPG)
+![Many-to-One](/data/many-to-one.JPG)
 
 
 ### Single LSTM Neural Network
